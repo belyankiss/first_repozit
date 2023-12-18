@@ -8,3 +8,4 @@ add the text in a new branch
 
 It's a conflict. We need to solve it
 
+solve a conflict local
